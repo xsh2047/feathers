@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.30](https://github.com/feathersjs/feathers/compare/v5.0.29...v5.0.30) (2024-09-02)
+
+### Bug Fixes
+
+- **knex:** use driver name to identify client ([#3527](https://github.com/feathersjs/feathers/issues/3527)) ([bb075ec](https://github.com/feathersjs/feathers/commit/bb075ec8beb3ac9b0a1a8aebc3c3756d970cc6a4))
+
 ## [5.0.29](https://github.com/feathersjs/feathers/compare/v5.0.28...v5.0.29) (2024-07-10)
 
 **Note:** Version bump only for package @feathersjs/knex
